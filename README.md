@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:karankumaratwork@gmail.com">
+  <a href="mailto:karankr.11205@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/karankumar11205/" target="_blank">
